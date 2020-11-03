@@ -54,9 +54,9 @@ Hay 5 partes:
 4. Etiquete adecuadamente el conjunto de datos con nombres de actividades descriptivos.
 5. Crea un segundo conjunto de datos ordenado e independiente con el promedio de cada variable para cada actividad y cada tema.
 
-## Cómo `` `run_analysis.R``` implementa los pasos anteriores:
+## Cómo  `run_analysis.R` implementa los pasos anteriores:
 
-* Requiere librerias `` `reshapre2``` y` `data.table```.
+* Requiere librerias  `reshapre2` y `data.table`.
 * Cargar datos de prueba y de tren
 * Cargue las características y etiquetas de actividades.
 * Extraiga los nombres y datos de las columnas de desviación estándar y media.

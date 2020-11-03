@@ -12,10 +12,10 @@ Debe crear un script de R llamado run_analysis.R que haga lo siguiente.
 
 ## Pasos para trabajar en este proyecto de curso
 
-1. Descargue la fuente de datos y colóquela en una carpeta en su disco local. Tendrá una carpeta `` UCI HAR Dataset```.
-2. Ponga `` `run_analysis.R``` en la carpeta principal de` `ʻUCI HAR Dataset```, luego configúrelo como su directorio de trabajo usando la función` `` setwd () `` `en RStudio.
-3. Ejecute `` `source (" run_analysis.R ")` ``, luego generará un nuevo archivo `` `tiny_data.txt``` en su directorio de trabajo.
+1. Descargue la fuente de datos y colóquela en una carpeta en su disco local. Tendrá una carpeta `UCI HAR Dataset`.
+2. Ponga  `run_analysis.R` en la carpeta principal de `UCI HAR Dataset`, luego configúrelo como su directorio de trabajo usando la función `setwd()` en RStudio.
+3. Ejecute `source("run_analysis.R ")`, luego generará un nuevo archivo `tiny_data.txt` en su directorio de trabajo.
 
 ## Dependencias
 
-El archivo `` `run_analysis.R``` le ayudará a instalar las dependencias automáticamente. Depende de `` `reshape2``` y` `` data.table```.
+El archivo `run_analysis.R` le ayudará a instalar las dependencias automáticamente. Depende de `reshape2` y ` data.table`.
